@@ -1,0 +1,11 @@
+name: ml-zoomcamp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - scikit-learn
+  - jupyter
+  - seaborn
+  - numpy
+prefix: /home/jaimeh94/anaconda3/envs/ml-zoomcamp
