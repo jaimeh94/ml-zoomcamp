@@ -1,6 +1,6 @@
 # Deployment
 
-You can see the deployment in the hosting Heroku. the url is [churn-service-jhcs.herokuapp.com](churn-service-jhcs.herokuapp.com)`.
+You can see the deployment in the hosting Heroku. the url is [churn-service-jhcs.herokuapp.com](https://churn-service-jhcs.herokuapp.com)`.
 
 To make a request you can run this code:
 
